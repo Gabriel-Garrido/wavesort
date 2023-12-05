@@ -1,0 +1,20 @@
+# Archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Archivos de configuración
+*.sqlite3
+
+# Archivos de registro y caché
+log/
+db.sqlite3
+db.sqlite3-journal
+*.log
+*.pot
+*.pyc
+__pycache__/
